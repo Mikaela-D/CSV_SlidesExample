@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ba0df24-9060-4e14-9f5c-3887672b5a26" name="Changes" comment="New project with class CVS and temp file added">
-      <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/CVS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/CVS.java" afterDir="false" />
+    <list default="true" id="3ba0df24-9060-4e14-9f5c-3887672b5a26" name="Changes" comment="CSV*">
+      <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/CVS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/CSV.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Test" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -51,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673221267567</updated>
-      <workItem from="1673221269002" duration="334000" />
+      <workItem from="1673221269002" duration="643000" />
     </task>
     <task id="LOCAL-00001" summary="New project with class CVS and temp file added">
       <created>1673221386187</created>
@@ -60,7 +60,21 @@
       <option name="project" value="LOCAL" />
       <updated>1673221386187</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added code for CVS">
+      <created>1673221616717</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673221616717</updated>
+    </task>
+    <task id="LOCAL-00003" summary="CSV*">
+      <created>1673221852558</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673221852558</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,7 +85,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -79,6 +105,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New project with class CVS and temp file added" />
-    <option name="LAST_COMMIT_MESSAGE" value="New project with class CVS and temp file added" />
+    <MESSAGE value="Added code for CVS" />
+    <MESSAGE value="CSV*" />
+    <option name="LAST_COMMIT_MESSAGE" value="CSV*" />
   </component>
 </project>

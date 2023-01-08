@@ -3,7 +3,7 @@ package ie.atu;
 import java.io.File;
 import java.util.Scanner;
 
-public class CVS {
+public class CSV {
     public static void main(String[] args) {
         Scanner sc = new Scanner(new File("names.cvs")); // throws Exception
         sc.useDelimiter(","); // Sets the delimiter pattern
